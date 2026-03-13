@@ -49,7 +49,7 @@ Each File Represents **One Para of the Holy Qur'an**.
 
 ```
 
-[https://github.com/vincenzoh-gh/16-Line-Quran/releases/download/Initial/01.pdf](https://github.com/vincenzoh-gh/16-Line-Quran/releases/download/Initial/01.pdf)
+https://github.com/vincenzoh-gh/16-Line-Quran/releases/download/Initial/01.pdf
 
 ```
 
@@ -78,7 +78,7 @@ This Format is Particularly Useful For:
 
 ```
 
-[https://github.com/vincenzoh-gh/16-Line-Quran/releases/download/v2/002.webp](https://github.com/vincenzoh-gh/16-Line-Quran/releases/download/v2/002.webp)
+https://github.com/vincenzoh-gh/16-Line-Quran/releases/download/v2/002.webp
 
 ```
 
