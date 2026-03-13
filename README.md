@@ -49,7 +49,7 @@ Each File Represents **One Para of the Holy Qur'an**.
 
 ```
 
-https://github.com/vincenzoh-gh/16-Line-Quran/releases/download/Initial/01.pdf
+https://github.com/vincenzoh-gh/16-Line-Quran/releases/download/v1/01.pdf
 
 ```
 
